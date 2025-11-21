@@ -24,14 +24,14 @@ Bio here...
 - Role: Team then Lead (Promotion) Gameplay Programmer
 - Engine: Unreal Engine 4 (C++ and Blueprints)
 - Trailer / Screenshots
-- [Download Link]
+- [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
 - [GitHub Repository]
 
 ### Zombie Arcade
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
-- [[[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/ZA-v1.0/ZombieArcade.zip)
+- [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/ZA-v1.0/ZombieArcade.zip)
 - [GitHub Repository]
 
 ### Guardians of the Forest
