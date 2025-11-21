@@ -38,5 +38,5 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
-- [Download Link]
+- [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
 - [GitHub Repository]
