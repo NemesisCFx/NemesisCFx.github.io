@@ -18,25 +18,25 @@ Bio here...
 - Engine: Unreal Engine 5 (C++)
 - Trailer / Screenshots
 - [Download Link]
-- [GitHub Repository]
+- [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiariesTheSpectralTrain)
 
 ### MAU
 - Role: Team then Lead (Promotion) Gameplay Programmer
 - Engine: Unreal Engine 4 (C++ and Blueprints)
 - Trailer / Screenshots
 - [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
-- [GitHub Repository]
+- [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
 
 ### Zombie Arcade
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
 - [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/ZA-v1.0/ZombieArcade.zip)
-- [GitHub Repository]
+- [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
 ### Guardians of the Forest
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
 - [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
-- [GitHub Repository]
+- [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
