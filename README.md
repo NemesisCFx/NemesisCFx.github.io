@@ -18,7 +18,7 @@ Bio here...
 - Engine: Unreal Engine 5 (C++)
 - Trailer / Screenshots
 - [Download Link]
-- [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiariesTheSpectralTrain)
+- [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 ### MAU
 - Role: Team then Lead (Promotion) Gameplay Programmer
