@@ -17,7 +17,7 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unreal Engine 5 (C++)
 - Trailer / Screenshots
-- [Download Link]
+- [[Itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 ### MAU
