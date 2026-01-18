@@ -18,7 +18,6 @@ Bio here...
 - Engine: Unreal Engine 5 (C++)
 - Trailer / Screenshots
 - [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
-- (Game download link is through itch.io due to its large file size)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 ### MAU
@@ -32,7 +31,7 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
-- [[itch.io Game Download Page]][https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/ZA-v1.0/ZombieArcade.zip](https://nemesiscfx.itch.io/zombie-arcade)
+- [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
 ### Guardians of the Forest
