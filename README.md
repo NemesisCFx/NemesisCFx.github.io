@@ -32,7 +32,7 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
-- [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/ZA-v1.0/ZombieArcade.zip)
+- [[itch.io Game Download Page]][https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/ZA-v1.0/ZombieArcade.zip](https://nemesiscfx.itch.io/zombie-arcade)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
 ### Guardians of the Forest
