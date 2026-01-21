@@ -4,12 +4,19 @@
 ## About Me
 Bio here...
 
+## Education
+- Joseph Wright College Derby (2 years): degree
+- University of Derby (4 years): degree
+
 ## Skills
-- Unreal Engine 5 / C++
-- Unity / C#
-- AI, Gameplay Systems, Physics
+- Strong Unreal Engine and Unity knowledge
+- Strong C++ and C# knowledge
+- Good Python and C knowledge
+- AI, Gameplay Systems, Physics, Game Development Cycle
+- Ability to work towards strict deadlines
+- Always aiming to learn more
 - Git / Version Control
-- Teamwork, Collaboration
+- Teamwork, Collaboration, Leading a Team, Solo Development, Game Publishing
 
 ## Projects
 
@@ -17,13 +24,13 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unreal Engine 5 (C++)
 - Trailer / Screenshots
+- [![Trailer]("C:\Portfolio\Games\The Phantom Diaries-Master\Resources\Thumbnail\Thumbnail.png")(https://www.youtube.com/watch?v=HzpkVU_9g2Y)
 - [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 ### MAU
 - Role: Team then Lead (Promotion) Gameplay Programmer
 - Engine: Unreal Engine 4 (C++ and Blueprints)
-- Trailer / Screenshots
 - [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
 - [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
 
@@ -31,6 +38,7 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
+- [![Trailer]("C:\Portfolio\Games\Zombie Arcade-Master\Resources\Thumbnail\Thumbnail.png")(https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
 - [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
@@ -38,5 +46,6 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
+- [![Trailer]()()
 - [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
 - [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
