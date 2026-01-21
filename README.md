@@ -24,7 +24,7 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unreal Engine 5 (C++)
 - Trailer / Screenshots
-- [![Trailer]("C:\Portfolio\Games\The Phantom Diaries-Master\Resources\Thumbnail\Thumbnail.png")](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
+- [![Trailer](assets\ThumbnailTrailer.png)](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
 - [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
@@ -38,7 +38,7 @@ Bio here...
 - Role: Solo Developer
 - Engine: Unity (C#)
 - Trailer / Screenshots
-- [![Trailer]("C:\Portfolio\Games\Zombie Arcade-Master\Resources\Thumbnail\Thumbnail.png")](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
+- [![Trailer](assets\Thumbnail.png)](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
 - [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
