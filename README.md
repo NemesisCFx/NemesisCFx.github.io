@@ -23,7 +23,7 @@ Bio here...
 ### The Phantom Diaries: The Spectral Train
 - Role: Solo Developer
 - Engine: Unreal Engine 5 (C++)
-- Trailer / Screenshots
+**▶️ Trailer**
 - [![Trailer](assets/images/ThumbnailTrailer.png)](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
 - [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
@@ -37,7 +37,7 @@ Bio here...
 ### Zombie Arcade
 - Role: Solo Developer
 - Engine: Unity (C#)
-- Trailer / Screenshots
+**▶️ Trailer**
 - [![Trailer](assets/images/Thumbnail.png)](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
 - [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
 - [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
@@ -45,7 +45,7 @@ Bio here...
 ### Guardians of the Forest
 - Role: Solo Developer
 - Engine: Unity (C#)
-- Trailer / Screenshots
+**▶️ Trailer**
 - [![Trailer]()()
 - [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
 - [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
