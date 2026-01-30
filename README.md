@@ -59,7 +59,7 @@ skills to studios, indie teams, or QA roles.
 
 
 ### MAU
-- Role: Team then Lead (Promotion) Gameplay Programmer
+- Role: Team then Lead (Promotion) AI Programmer
 - Engine: Unreal Engine 4 (C++ and Blueprints)
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
