@@ -74,7 +74,7 @@ skills to studios, indie teams, or QA roles.
 ### Zombie Arcade
 - Role: Solo Developer
 - Engine: Unity (C#)
-- 🎥[[Trailer]](assets/images/Thumbnail.png)](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
+- 🎥[[Trailer]](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
