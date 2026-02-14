@@ -88,7 +88,7 @@ skills to studios, indie teams, or QA roles.
 ### Guardians of the Forest
 - Role: Solo Developer
 - Engine: Unity (C#)
-- 🎥[[Trailer]]()
+- 🎥[[Trailer]](https://www.youtube.com/watch?v=Mt_N8QCtcMo)
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
 
