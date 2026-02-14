@@ -46,7 +46,7 @@ skills to studios, indie teams, or QA roles.
 
 ### The Phantom Diaries: The Spectral Train
 - Role: Solo Developer
-- Engine: Unreal Engine 5 (C++)
+- Engine: Unreal Engine 5 (C++ with Minor Blueprints Usage)
 - 🎥[[Trailer]](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
@@ -60,7 +60,7 @@ skills to studios, indie teams, or QA roles.
 
 ### MAU
 - Role: Team then Lead (Promotion) AI Programmer
-- Engine: Unreal Engine 4 (C++ and Blueprints)
+- Engine: Unreal Engine 4 (C++ with Major Blueprints Usage)
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
 
