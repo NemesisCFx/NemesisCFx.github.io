@@ -191,9 +191,59 @@ skills to studios, indie teams, or QA roles.
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
 
-![Screenshot 1](assets/images/guardians-of-the-forest/)
-![Screenshot 2](assets/images/guardians-of-the-forest/)
-![Screenshot 3](assets/images/guardians-of-the-forest/)
-![Screenshot 4](assets/images/guardians-of-the-forest/)
-![Screenshot 5](assets/images/guardians-of-the-forest/)
+<p align="center">
+  <a href="assets/images/GuardiansOfTheForest/MainMenu.png">
+    <img src="assets/images/GuardiansOfTheForest/MainMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/CharacterSelectionMenu.png">
+    <img src="assets/images/GuardiansOfTheForest/CharacterSelectionMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/ProjectileSelectionMenu.png">
+    <img src="assets/images/GuardiansOfTheForest/ProjectileSelectionMenu.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/GuardiansOfTheForest/PoisonballShot.png">
+    <img src="assets/images/GuardiansOfTheForest/PoisonballShot.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/FireballShot.png">
+    <img src="assets/images/GuardiansOfTheForest/FireballShot.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/PauseMenu.png">
+    <img src="assets/images/GuardiansOfTheForest/PauseMenu.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/GuardiansOfTheForest/ElectricballShot.png">
+    <img src="assets/images/GuardiansOfTheForest/ElectricballShot.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/BloodballShot.png">
+    <img src="assets/images/GuardiansOfTheForest/BloodballShot.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/LevelCompletedMenu.png">
+    <img src="assets/images/GuardiansOfTheForest/LevelCompletedMenu.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/GuardiansOfTheForest/CosmicballPowerUp.png">
+    <img src="assets/images/GuardiansOfTheForest/CosmicballPowerUp.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/FireballPowerUp.png">
+    <img src="assets/images/GuardiansOfTheForest/FireballPowerUp.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/LevelFailedMenu.png">
+    <img src="assets/images/GuardiansOfTheForest/LevelFailedMenu.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/GuardiansOfTheForest/VoodooballPowerUp.png">
+    <img src="assets/images/GuardiansOfTheForest/VoodooballPowerUp.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/BloodballPowerUp.png">
+    <img src="assets/images/GuardiansOfTheForest/BloodballPowerUp.png" width="32%" />
+  </a>
+  <a href="assets/images/GuardiansOfTheForest/PoisonballPowerUp.png">
+    <img src="assets/images/GuardiansOfTheForest/PoisonballPowerUp.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/GuardiansOfTheForest/GameCompletedMenu.png">
+    <img src="assets/images/GuardiansOfTheForest/GameCompletedMenu.png" width="32%" />
+  </a>
+</p>
 
