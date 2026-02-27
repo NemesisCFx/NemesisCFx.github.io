@@ -64,11 +64,11 @@ skills to studios, indie teams, or QA roles.
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
 
-![Screenshot 1](assets/images/mau/undergroundscenic.png)
-![Screenshot 2](assets/images/mau/gruntenemy.png)
-![Screenshot 3](assets/images/mau/boss.png)
-![Screenshot 4](assets/images/mau/damaged.png)
-![Screenshot 5](assets/images/mau/train.png)
+![Screenshot 1](assets/images/MAU/UndergroundScenic.png)
+![Screenshot 2](assets/images/MAU/GruntEnemy.png)
+![Screenshot 3](assets/images/MAU/Boss.png)
+![Screenshot 4](assets/images/MAU/Damaged.png)
+![Screenshot 5](assets/images/MAU/Train.png)
 
 
 ### Zombie Arcade
