@@ -45,10 +45,12 @@ skills to studios, indie teams, or QA roles.
 ## Projects
 
 ### The Phantom Diaries: The Spectral Train
-- Role: Solo Developer
-- Engine: Unreal Engine 5 (C++ with Minor Blueprints Usage)
-- 🎥[[Trailer]](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
+- **Role:** Solo Developer
+- **Engine:** Unreal Engine 5 (C++ & Blueprints)
+- **Project Type:** Solo Portfolio Project
+- 🎥 [[Trailer]](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
+- 📝 [[Game Design Document]]()
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 <p align="center">
@@ -105,8 +107,9 @@ skills to studios, indie teams, or QA roles.
 
 
 ### MAU
-- Role: Team then Lead (Promotion) AI Programmer
-- Engine: Unreal Engine 4 (C++ with Major Blueprints Usage)
+- **Role:** AI Programmer → Promoted to Lead AI Programmer
+- **Engine:** Unreal Engine 4 (C++ & Blueprints)
+- **Project Type:** Team-Based University Project
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
 
@@ -171,10 +174,12 @@ skills to studios, indie teams, or QA roles.
 
 
 ### Zombie Arcade
-- Role: Solo Developer
-- Engine: Unity (C#)
-- 🎥[[Trailer]](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
+- **Role:** Solo Developer
+- **Engine:** Unity (C#)
+- **Project Type:** Solo Portfolio Project
+- 🎥 [[Trailer]](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
+- 📝 [[Game Design Document]]()
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
 <p align="center">
@@ -218,10 +223,12 @@ skills to studios, indie teams, or QA roles.
 
 
 ### Guardians of the Forest
-- Role: Solo Developer
-- Engine: Unity (C#)
-- 🎥[[Trailer]](https://www.youtube.com/watch?v=Mt_N8QCtcMo)
+- **Role:** Solo Developer
+- **Engine:** Unity (C#)
+- **Project Type:** Solo Portfolio Project
+- 🎥 [[Trailer]](https://www.youtube.com/watch?v=Mt_N8QCtcMo)
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
+- 📝 [[Game Design Document]]()
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
 
 <p align="center">
