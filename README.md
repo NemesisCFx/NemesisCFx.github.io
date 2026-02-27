@@ -81,6 +81,46 @@ skills to studios, indie teams, or QA roles.
   <a href="assets/images/MAU/Train.png">
     <img src="assets/images/MAU/Train.png" width="32%" />
   </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/LevelCompletedMenu.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/GrenadierEnemy.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/Train-Splosion!.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/Enemies.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/EgyptScenic.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/Traps.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/MeleeEnemy.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/SpaceshipScenic.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/SpaceshipScenic2.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/SpaceshipScenic3.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/BossEnemy.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/BossEnemy2.png" width="32%" />
+  </a>
 </p>
 
 
