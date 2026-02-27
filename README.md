@@ -208,11 +208,11 @@ skills to studios, indie teams, or QA roles.
     <img src="assets/images/ZombieArcade/Level5Retro.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/ZombieArcade/LeaderboardMenu.png">
-    <img src="assets/images/ZombieArcade/LeaderboardMenu.png" width="32%" />
-  </a>
   <a href="assets/images/ZombieArcade/GameOverMenu.png">
     <img src="assets/images/ZombieArcade/GameOverMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/LeaderboardMenu.png">
+    <img src="assets/images/ZombieArcade/LeaderboardMenu.png" width="32%" />
   </a>
 </p>
 
