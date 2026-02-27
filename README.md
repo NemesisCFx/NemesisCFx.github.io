@@ -177,11 +177,44 @@ skills to studios, indie teams, or QA roles.
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
-![Screenshot 1](assets/images/zombie-arcade/)
-![Screenshot 2](assets/images/zombie-arcade/)
-![Screenshot 3](assets/images/zombie-arcade/)
-![Screenshot 4](assets/images/zombie-arcade/)
-![Screenshot 5](assets/images/zombie-arcade/)
+<p align="center">
+  <a href="assets/images/ZombieArcade/MainMenu.png">
+    <img src="assets/images/ZombieArcade/MainMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/GameModeMenu.png">
+    <img src="assets/images/ZombieArcade/GameModeMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/Level2Modern.png">
+    <img src="assets/images/ZombieArcade/Level2Modern.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/ZombieArcade/PauseMenu.png">
+    <img src="assets/images/ZombieArcade/PauseMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/Level3Retro.png">
+    <img src="assets/images/ZombieArcade/Level3Retro.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/CheckpointMenu.png">
+    <img src="assets/images/ZombieArcade/CheckpointMenu.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/ZombieArcade/Level4Modern.png">
+    <img src="assets/images/ZombieArcade/Level4Modern.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/ShopMenu.png">
+    <img src="assets/images/ZombieArcade/ShopMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/Level5Retro.png">
+    <img src="assets/images/ZombieArcade/Level5Retro.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/ZombieArcade/LeaderboardMenu.png">
+    <img src="assets/images/ZombieArcade/LeaderboardMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ZombieArcade/GameOverMenu.png">
+    <img src="assets/images/ZombieArcade/GameOverMenu.png" width="32%" />
+  </a>
+</p>
 
 
 ### Guardians of the Forest
