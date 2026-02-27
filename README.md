@@ -51,11 +51,57 @@ skills to studios, indie teams, or QA roles.
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
-![Screenshot 1](assets/images/the-phantom-diaries-the-spectral-train/)
-![Screenshot 2](assets/images/the-phantom-diaries-the-spectral-train/)
-![Screenshot 3](assets/images/the-phantom-diaries-the-spectral-train/)
-![Screenshot 4](assets/images/the-phantom-diaries-the-spectral-train/)
-![Screenshot 5](assets/images/the-phantom-diaries-the-spectral-train/)
+<p align="center">
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/MainMenu.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/MainMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Seating.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Seating.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Dining.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Dining.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Chest.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Chest.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/GhostInteraction.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/GhostInteraction.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/FlashlightOn.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/FlashlightOn.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Inventory.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Inventory.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Information.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Information.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Investigation.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Investigation.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/PauseMenu.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/PauseMenu.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Options.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Options.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Marcellus'Notebook.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Marcellus'Notebook.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Demon.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Demon.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Liar'sDice.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Liar'sDice.png" width="32%" />
+  </a>
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/TrainExterior.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/TrainExterior.png" width="32%" />
+  </a>
+</p>
 
 
 ### MAU
@@ -81,44 +127,44 @@ skills to studios, indie teams, or QA roles.
   <a href="assets/images/MAU/Train.png">
     <img src="assets/images/MAU/Train.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/LevelCompletedMenu.png">
     <img src="assets/images/MAU/LevelCompletedMenu.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/GrenadierEnemy.png">
     <img src="assets/images/MAU/GrenadierEnemy.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/Train-Splosion!.png">
     <img src="assets/images/MAU/Train-Splosion!.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/Enemies.png">
     <img src="assets/images/MAU/Enemies.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/EgyptScenic.png">
     <img src="assets/images/MAU/EgyptScenic.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/Traps.png">
     <img src="assets/images/MAU/Traps.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/MeleeEnemy.png">
     <img src="assets/images/MAU/MeleeEnemy.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/SpaceshipScenic.png">
     <img src="assets/images/MAU/SpaceshipScenic.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/SpaceshipScenic2.png">
     <img src="assets/images/MAU/SpaceshipScenic2.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/SpaceshipScenic3.png">
     <img src="assets/images/MAU/SpaceshipScenic3.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/BossEnemy.png">
     <img src="assets/images/MAU/BossEnemy.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
+  <a href="assets/images/MAU/BossEnemy2.png">
     <img src="assets/images/MAU/BossEnemy2.png" width="32%" />
   </a>
 </p>
