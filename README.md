@@ -72,14 +72,14 @@ skills to studios, indie teams, or QA roles.
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/FlashlightOn.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Inventory.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Inventory.png" width="32%" />
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/InventoryMenu.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/InventoryMenu.png" width="32%" />
   </a>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Information.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Information.png" width="32%" />
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/InformationMenu.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/InformationMenu.png" width="32%" />
   </a>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Investigation.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Investigation.png" width="32%" />
+  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/InvestigationMenu.png">
+    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/InvestigationMenu.png" width="32%" />
   </a>
   <br/>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/PauseMenu.png">
