@@ -64,11 +64,24 @@ skills to studios, indie teams, or QA roles.
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
 
-![Screenshot 1](assets/images/MAU/UndergroundScenic.png)
-![Screenshot 2](assets/images/MAU/GruntEnemy.png)
-![Screenshot 3](assets/images/MAU/Boss.png)
-![Screenshot 4](assets/images/MAU/Damaged.png)
-![Screenshot 5](assets/images/MAU/Train.png)
+<p align="center">
+  <a href="assets/images/MAU/UndergroundScenic.png">
+    <img src="assets/images/MAU/UndergroundScenic.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/GruntEnemy.png">
+    <img src="assets/images/MAU/GruntEnemy.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Boss.png">
+    <img src="assets/images/MAU/Boss.png" width="32%" />
+  </a>
+  <br/>
+  <a href="assets/images/MAU/Damaged.png">
+    <img src="assets/images/MAU/Damaged.png" width="32%" />
+  </a>
+  <a href="assets/images/MAU/Train.png">
+    <img src="assets/images/MAU/Train.png" width="32%" />
+  </a>
+</p>
 
 
 ### Zombie Arcade
