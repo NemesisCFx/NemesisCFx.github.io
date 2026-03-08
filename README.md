@@ -50,7 +50,7 @@ skills to studios, indie teams, or QA roles.
 - **Project Type:** Solo Portfolio Project
 - 🎥 [[Trailer]](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
-- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/assets/game-documents/ThePhantomDiaries-TheSpectralTrain/ThePhantomDiaries-TheSpectralTrain-OfficialGameDocument.pdf)
+- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/assets/game-documents/ThePhantomDiaries-TheSpectralTrain/The%20Phantom%20Diaries%20-%20The%20Spectral%20Train%20-%20Official%20Game%20Document.pdf)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 <p align="center">
@@ -179,7 +179,7 @@ skills to studios, indie teams, or QA roles.
 - **Project Type:** Solo Portfolio Project
 - 🎥 [[Trailer]](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
-- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/assets/game-documents/ZombieArcade/ZombieArcade-OfficialGameDocument.pdf)
+- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/assets/game-documents/ZombieArcade/Zombie%20Arcade%20-%20Official%20Game%20Document.pdf)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
 <p align="center">
@@ -228,7 +228,7 @@ skills to studios, indie teams, or QA roles.
 - **Project Type:** Solo Portfolio Project
 - 🎥 [[Trailer]](https://www.youtube.com/watch?v=Mt_N8QCtcMo)
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
-- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/assets/game-documents/GuardiansOfTheForest/GuardiansoftheForest-OfficialGameDocument.pdf)
+- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/assets/game-documents/GuardiansOfTheForest/Guardians%20of%20the%20Forest%20-%20Official%20Game%20Document.pdf)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
 
 <p align="center">
