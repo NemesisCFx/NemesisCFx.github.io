@@ -179,7 +179,7 @@ skills to studios, indie teams, or QA roles.
 - **Project Type:** Solo Portfolio Project
 - 🎥 [[Trailer]](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
 - ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
-- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/blob/main/assets/game-documents/ZombieArcade/Zombie%20Arcade%20-%20Official%20Game%20Document.pdf)
+- 📝 [[Game Design Document]](assets/game-documents/ZombieArcade/Zombie%20Arcade%20-%20Official%20Game%20Document.pdf)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
 <p align="center">
@@ -228,7 +228,7 @@ skills to studios, indie teams, or QA roles.
 - **Project Type:** Solo Portfolio Project
 - 🎥 [[Trailer]](https://www.youtube.com/watch?v=Mt_N8QCtcMo)
 - ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
-- 📝 [[Game Design Document]](https://github.com/NemesisCFx/NemesisCFx.github.io/blob/main/assets/game-documents/GuardiansOfTheForest/Guardians%20of%20the%20Forest%20-%20Official%20Game%20Document.pdf)
+- 📝 [[Game Design Document]](assets/game-documents/GuardiansOfTheForest/Guardians%20of%20the%20Forest%20-%20Official%20Game%20Document.pdf)
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
 
 <p align="center">
