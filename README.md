@@ -1,17 +1,26 @@
 # NemesisCFx.github.io
 # Cameron Fox - Game Programmer
+📧 cam3ronfox@gmail.com  
+🔗 [GitHub](https://github.com/NemesisCFx) | [Itch.io](https://nemesiscfx.itch.io/) | [LinkedIn](https://www.linkedin.com/in/cameron-fox-10454a250/)
 
 
 ## About Me
-Hi! I'm Cameron Fox, a recent graduate with a massive passion for gameplay programming, game systems, and video games in general. I enjoy crafting player experiences - from responsive controls and interactive systems like hiding or barricading to mini-games, puzzles, and other events in between.
-During my final University project, I stepped up to lead a small team of AI programmers, taking over leadership mid-project to ensure the game met deadlines and quality standards, and was rewarded with an outstanding work certificate for my efforts. I am a problem solver by nature, fascinated by
-all kinds of games with a special love for single-player adventure and horror titles. My portfolio showcases both solo and collaborative projects, demonstrating my ability to implement engaging gameplay, work in teams and solo, and deliver complete, polished experiences. I am eager to bring these
-skills to studios, indie teams, or QA roles.
+Hi! I'm Cameron Fox, a game developer with a strong passion for playing and creating video games. I have a background in game development from my time in College through to University, where I specialized in programming while
+developing a strong foundation across the full development pipeline.
+
+My primary focus is gameplay and AI programming, where I enjoy building responsive systems, designing mechanics, and solving complex technical problems. I am particularly interested in creating immersive player experiences,
+especially within single-player and horror games.
+
+During my end-of-year University project, I stepped into the role of Lead AI Programmer, taking responsibility for guiding a team, maintaining code quality, and ensuring deadlines were met. My contributions were recognized with
+an Outstanding Work Certificate from both peers and tutors.
+
+I am a motivated and curious developer who enjoys learning new technologies, tackling challenging problems, and collaborating within a team. I am currently seeking opportunities in gameplay, AI, or general programming roles
+where I can continue to grow and contribute to meaningful projects.
 
 
 ## Education
-- Joseph Wright College Derby (2 years): degree
-- University of Derby (4 years): degree
+- Joseph Wright College Derby (2 years): Games Development
+- University of Derby (4 years): BSc (Hons) Computer Games Programming
 
 
 ## Skills
@@ -45,6 +54,12 @@ skills to studios, indie teams, or QA roles.
 ## Projects
 
 ### The Phantom Diaries: The Spectral Train
+A first-person, horror escape room experience built in Unreal Engine 5, focused on immersive, atmospheric, story-driven gameplay, player interaction, and puzzle systems.
+Players explore a haunted 1920's steam train, uncovering narrative elements at their own pace through environmental storytelling and interactions.
+
+As a solo developer, I designed and implemented core gameplay systems including inventory management, interactive objects, UI systems, and scripted events such as jumpscares and enemy
+quick-time encounters. The project places a strong emphasis on atmosphere, player agency, and tension-building through both mechanics and level design.
+
 - **Role:** Solo Developer
 - **Engine:** Unreal Engine 5 (C++ & Blueprints)
 - **Project Type:** Solo Portfolio Project
@@ -107,6 +122,12 @@ skills to studios, indie teams, or QA roles.
 
 
 ### MAU
+A fast-paced "boomer-shooter" inspired by games like _'DOOM'_, developed as part of a large multidisciplinary University team.
+
+I worked as an AI Programmer and was later promoted to Lead AI Programmer, where I helped guide a small team responsible for enemy behaviour. My work focused on designing and
+implementing AI systems that created engaging and varied combat encounters, ensuring each enemy type had distinct behaviours, balance, and gameplay identity. I also contributed
+to maintaining code quality and supporting team coordination to meet project deadlines and demands.
+
 - **Role:** AI Programmer → Promoted to Lead AI Programmer
 - **Engine:** Unreal Engine 4 (C++ & Blueprints)
 - **Project Type:** Team-Based University Project
@@ -174,6 +195,11 @@ skills to studios, indie teams, or QA roles.
 
 
 ### Zombie Arcade
+A fast-paced, score-driven arcade game inspired by the 1984 classic _'Oh Mummy'_, focused on responsive and high-risk, high-reward gameplay.
+
+As a solo developer, I created gameplay systems that emphasizes quick decision-making and alert player movement, with increasing difficulty and persistent threats from enemies. The game
+features two gameplay-changing game modes, scoring systems, and dedicated online Leaderboards designed to encourage replayability and competitive play.
+
 - **Role:** Solo Developer
 - **Engine:** Unity (C#)
 - **Project Type:** Solo Portfolio Project
@@ -223,6 +249,11 @@ skills to studios, indie teams, or QA roles.
 
 
 ### Guardians of the Forest
+A physics-based puzzle game inspired by _'Angry Birds'_, featuring a pull-and-launch mechanic within a family-friendly, fantasy setting.
+
+Developed solo in Unity, this project focuses on creating satisfying and intuitive physics interactions. I implemented character selection mechanics, projectile systems and abilities,
+and gameplay variations through multiple character-projectile loadouts, encouraging replayability and experimentation.
+
 - **Role:** Solo Developer
 - **Engine:** Unity (C#)
 - **Project Type:** Solo Portfolio Project
@@ -287,3 +318,9 @@ skills to studios, indie teams, or QA roles.
   </a>
 </p>
 
+
+## Contact
+- Email: cam3ronfox@gmail.com
+- GitHub: https://github.com/NemesisCFx
+- Itch.io: https://nemesiscfx.itch.io/
+- LinkedIn: https://www.linkedin.com/in/cameron-fox-10454a250/
