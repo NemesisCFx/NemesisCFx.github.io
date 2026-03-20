@@ -78,28 +78,18 @@ quick-time encounters. The project places a strong emphasis on atmosphere, playe
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 <p align="center">
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/MainMenu.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/MainMenu.png" width="32%" />
-  </a>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Seating.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Seating.png" width="32%" />
-  </a>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Dining.png">
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Dining.png" width="32%" />
   </a>
-  <br/>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Chest.png">
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Chest.png" width="32%" />
   </a>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/GhostInteraction.png">
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/GhostInteraction.png" width="32%" />
   </a>
+  <br/>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/FlashlightOn.png">
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/FlashlightOn.png" width="32%" />
-  </a>
-  <br/>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/InventoryMenu.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/InventoryMenu.png" width="32%" />
   </a>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/InformationMenu.png">
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/InformationMenu.png" width="32%" />
@@ -108,24 +98,11 @@ quick-time encounters. The project places a strong emphasis on atmosphere, playe
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/InvestigationMenu.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/PauseMenu.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/PauseMenu.png" width="32%" />
-  </a>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Options.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Options.png" width="32%" />
-  </a>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Marcellus'Notebook.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Marcellus'Notebook.png" width="32%" />
-  </a>
-  <br/>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Demon.png">
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Demon.png" width="32%" />
   </a>
   <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/Liar'sDice.png">
     <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/Liar'sDice.png" width="32%" />
-  </a>
-  <a href="assets/images/ThePhantomDiaries-TheSpectralTrain/TrainExterior.png">
-    <img src="assets/images/ThePhantomDiaries-TheSpectralTrain/TrainExterior.png" width="32%" />
   </a>
 </p>
 
@@ -167,16 +144,6 @@ to maintaining code quality and supporting team coordination to meet project dea
   <a href="assets/images/MAU/Damaged.png">
     <img src="assets/images/MAU/Damaged.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Train.png">
-    <img src="assets/images/MAU/Train.png" width="32%" />
-  </a>
-  <a href="assets/images/MAU/LevelCompletedMenu.png">
-    <img src="assets/images/MAU/LevelCompletedMenu.png" width="32%" />
-  </a>
-  <br/>
-  <a href="assets/images/MAU/GrenadierEnemy.png">
-    <img src="assets/images/MAU/GrenadierEnemy.png" width="32%" />
-  </a>
   <a href="assets/images/MAU/Train-Splosion!.png">
     <img src="assets/images/MAU/Train-Splosion!.png" width="32%" />
   </a>
@@ -206,9 +173,6 @@ to maintaining code quality and supporting team coordination to meet project dea
   <br/>
   <a href="assets/images/MAU/BossEnemy.png">
     <img src="assets/images/MAU/BossEnemy.png" width="32%" />
-  </a>
-  <a href="assets/images/MAU/BossEnemy2.png">
-    <img src="assets/images/MAU/BossEnemy2.png" width="32%" />
   </a>
 </p>
 
@@ -241,35 +205,25 @@ features two gameplay-changing game modes, scoring systems, and dedicated online
   <a href="assets/images/ZombieArcade/MainMenu.png">
     <img src="assets/images/ZombieArcade/MainMenu.png" width="32%" />
   </a>
-  <a href="assets/images/ZombieArcade/GameModeMenu.png">
-    <img src="assets/images/ZombieArcade/GameModeMenu.png" width="32%" />
-  </a>
   <a href="assets/images/ZombieArcade/Level2Modern.png">
     <img src="assets/images/ZombieArcade/Level2Modern.png" width="32%" />
-  </a>
-  <br/>
-  <a href="assets/images/ZombieArcade/PauseMenu.png">
-    <img src="assets/images/ZombieArcade/PauseMenu.png" width="32%" />
   </a>
   <a href="assets/images/ZombieArcade/Level3Retro.png">
     <img src="assets/images/ZombieArcade/Level3Retro.png" width="32%" />
   </a>
+  <br/>
   <a href="assets/images/ZombieArcade/CheckpointMenu.png">
     <img src="assets/images/ZombieArcade/CheckpointMenu.png" width="32%" />
   </a>
-  <br/>
   <a href="assets/images/ZombieArcade/Level4Modern.png">
     <img src="assets/images/ZombieArcade/Level4Modern.png" width="32%" />
   </a>
   <a href="assets/images/ZombieArcade/ShopMenu.png">
     <img src="assets/images/ZombieArcade/ShopMenu.png" width="32%" />
   </a>
+  <br/>
   <a href="assets/images/ZombieArcade/Level5Retro.png">
     <img src="assets/images/ZombieArcade/Level5Retro.png" width="32%" />
-  </a>
-  <br/>
-  <a href="assets/images/ZombieArcade/GameOverMenu.png">
-    <img src="assets/images/ZombieArcade/GameOverMenu.png" width="32%" />
   </a>
   <a href="assets/images/ZombieArcade/LeaderboardMenu.png">
     <img src="assets/images/ZombieArcade/LeaderboardMenu.png" width="32%" />
@@ -300,24 +254,14 @@ and gameplay variations through multiple character-projectile loadouts, encourag
 - 💻 [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
 
 <p align="center">
-  <a href="assets/images/GuardiansOfTheForest/MainMenu.png">
-    <img src="assets/images/GuardiansOfTheForest/MainMenu.png" width="32%" />
-  </a>
   <a href="assets/images/GuardiansOfTheForest/CharacterSelectionMenu.png">
     <img src="assets/images/GuardiansOfTheForest/CharacterSelectionMenu.png" width="32%" />
   </a>
   <a href="assets/images/GuardiansOfTheForest/ProjectileSelectionMenu.png">
     <img src="assets/images/GuardiansOfTheForest/ProjectileSelectionMenu.png" width="32%" />
   </a>
-  <br/>
   <a href="assets/images/GuardiansOfTheForest/PoisonballShot.png">
     <img src="assets/images/GuardiansOfTheForest/PoisonballShot.png" width="32%" />
-  </a>
-  <a href="assets/images/GuardiansOfTheForest/FireballShot.png">
-    <img src="assets/images/GuardiansOfTheForest/FireballShot.png" width="32%" />
-  </a>
-  <a href="assets/images/GuardiansOfTheForest/PauseMenu.png">
-    <img src="assets/images/GuardiansOfTheForest/PauseMenu.png" width="32%" />
   </a>
   <br/>
   <a href="assets/images/GuardiansOfTheForest/ElectricballShot.png">
@@ -330,15 +274,8 @@ and gameplay variations through multiple character-projectile loadouts, encourag
     <img src="assets/images/GuardiansOfTheForest/LevelCompletedMenu.png" width="32%" />
   </a>
   <br/>
-  <a href="assets/images/GuardiansOfTheForest/CosmicballPowerUp.png">
-    <img src="assets/images/GuardiansOfTheForest/CosmicballPowerUp.png" width="32%" />
-  </a>
   <a href="assets/images/GuardiansOfTheForest/FireballPowerUp.png">
     <img src="assets/images/GuardiansOfTheForest/FireballPowerUp.png" width="32%" />
-  </a>
-  <a href="assets/images/GuardiansOfTheForest/LevelFailedMenu.png">
-    <img src="assets/images/GuardiansOfTheForest/LevelFailedMenu.png" width="32%" />
-  </a>
   <br/>
   <a href="assets/images/GuardiansOfTheForest/VoodooballPowerUp.png">
     <img src="assets/images/GuardiansOfTheForest/VoodooballPowerUp.png" width="32%" />
@@ -346,12 +283,9 @@ and gameplay variations through multiple character-projectile loadouts, encourag
   <a href="assets/images/GuardiansOfTheForest/BloodballPowerUp.png">
     <img src="assets/images/GuardiansOfTheForest/BloodballPowerUp.png" width="32%" />
   </a>
+    <br/>
   <a href="assets/images/GuardiansOfTheForest/PoisonballPowerUp.png">
     <img src="assets/images/GuardiansOfTheForest/PoisonballPowerUp.png" width="32%" />
-  </a>
-  <br/>
-  <a href="assets/images/GuardiansOfTheForest/GameCompletedMenu.png">
-    <img src="assets/images/GuardiansOfTheForest/GameCompletedMenu.png" width="32%" />
   </a>
 </p>
 
