@@ -147,30 +147,26 @@ to maintaining code quality and supporting team coordination to meet project dea
   <a href="assets/images/MAU/Train-Splosion!.png">
     <img src="assets/images/MAU/Train-Splosion!.png" width="32%" />
   </a>
-  <a href="assets/images/MAU/Enemies.png">
-    <img src="assets/images/MAU/Enemies.png" width="32%" />
-  </a>
-  <br/>
   <a href="assets/images/MAU/EgyptScenic.png">
     <img src="assets/images/MAU/EgyptScenic.png" width="32%" />
   </a>
+  <br/>
   <a href="assets/images/MAU/Traps.png">
     <img src="assets/images/MAU/Traps.png" width="32%" />
   </a>
   <a href="assets/images/MAU/MeleeEnemy.png">
     <img src="assets/images/MAU/MeleeEnemy.png" width="32%" />
   </a>
-  <br/>
   <a href="assets/images/MAU/SpaceshipScenic.png">
     <img src="assets/images/MAU/SpaceshipScenic.png" width="32%" />
   </a>
+  <br/>
   <a href="assets/images/MAU/SpaceshipScenic2.png">
     <img src="assets/images/MAU/SpaceshipScenic2.png" width="32%" />
   </a>
   <a href="assets/images/MAU/SpaceshipScenic3.png">
     <img src="assets/images/MAU/SpaceshipScenic3.png" width="32%" />
   </a>
-  <br/>
   <a href="assets/images/MAU/BossEnemy.png">
     <img src="assets/images/MAU/BossEnemy.png" width="32%" />
   </a>
@@ -276,7 +272,7 @@ and gameplay variations through multiple character-projectile loadouts, encourag
   <br/>
   <a href="assets/images/GuardiansOfTheForest/FireballPowerUp.png">
     <img src="assets/images/GuardiansOfTheForest/FireballPowerUp.png" width="32%" />
-  <br/>
+  </a>
   <a href="assets/images/GuardiansOfTheForest/VoodooballPowerUp.png">
     <img src="assets/images/GuardiansOfTheForest/VoodooballPowerUp.png" width="32%" />
   </a>
