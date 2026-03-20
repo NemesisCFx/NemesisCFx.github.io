@@ -1,12 +1,9 @@
-# NemesisCFx.github.io
 # Cameron Fox - Game Programmer
 C++ | C# | Unreal Engine 5 | Unity | Gameplay & AI Programming
-
----
-
 📧 cam3ronfox@gmail.com  
 🔗 [GitHub](https://github.com/NemesisCFx) | [Itch.io](https://nemesiscfx.itch.io/) | [LinkedIn](https://www.linkedin.com/in/cameron-fox-10454a250/)
 
+---
 
 ## About Me
 Hi, I'm Cameron Fox, a game developer with a strong passion for playing and creating video games. I have a background in game development from my time in College through to University, where I specialised in programming while
@@ -70,6 +67,7 @@ quick-time encounters. The project places a strong emphasis on atmosphere, playe
 - Scripted gameplay events such as jumpscares, narrative triggers, and enemy encounters
 - Designed and integrated puzzle mechanics and progression systems
 - Developed interactive object systems to support puzzle gameplay
+
 
 
 - **Role:** Solo Developer
@@ -148,6 +146,7 @@ to maintaining code quality and supporting team coordination to meet project dea
 - Promoted to Lead AI Programmer, coordinating a small team to ensure task delivery and alignment
 - Reviewed and maintained AI code to ensure quality and consistency
 - Collaborated with designers and programmers to refine gameplay feel and combat pacing
+
 
 
 - **Role:** AI Programmer → Promoted to Lead AI Programmer
@@ -232,6 +231,7 @@ features two gameplay-changing game modes, scoring systems, and dedicated online
 - Implemented AI enemy behaviours to create constant player pressure and challenge
 
 
+
 - **Role:** Solo Developer
 - **Engine:** Unity (C#)
 - **Project Type:** Solo Portfolio Project
@@ -292,6 +292,7 @@ and gameplay variations through multiple character-projectile loadouts, encourag
 - Developed character and projectile selection systems with varied abilities and multiple loadouts
 - Tuned physics interactions to ensure responsive and satisfying gameplay
 - Created progression systems across multiple levels and challenges
+
 
 
 - **Role:** Solo Developer
