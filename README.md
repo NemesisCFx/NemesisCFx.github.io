@@ -53,7 +53,7 @@ where I can continue to grow and contribute to meaningful projects.
 
 ## Projects
 
-### The Phantom Diaries: The Spectral Train
+### 1. The Phantom Diaries: The Spectral Train
 A first-person, horror escape room experience built in Unreal Engine 5, focused on immersive, atmospheric, story-driven gameplay, player interaction, and puzzle systems.
 Players explore a haunted 1920's steam train, uncovering narrative elements at their own pace through environmental storytelling and interactions.
 
@@ -121,7 +121,7 @@ quick-time encounters. The project places a strong emphasis on atmosphere, playe
 </p>
 
 
-### MAU
+### 2. MAU
 A fast-paced "boomer-shooter" inspired by games like _'DOOM'_, developed as part of a large multidisciplinary University team.
 
 I worked as an AI Programmer and was later promoted to Lead AI Programmer, where I helped guide a small team responsible for enemy behaviour. My work focused on designing and
@@ -194,7 +194,7 @@ to maintaining code quality and supporting team coordination to meet project dea
 </p>
 
 
-### Zombie Arcade
+### 3. Zombie Arcade
 A fast-paced, score-driven arcade game inspired by the 1984 classic _'Oh Mummy'_, focused on responsive and high-risk, high-reward gameplay.
 
 As a solo developer, I created gameplay systems that emphasizes quick decision-making and alert player movement, with increasing difficulty and persistent threats from enemies. The game
@@ -248,8 +248,8 @@ features two gameplay-changing game modes, scoring systems, and dedicated online
 </p>
 
 
-### Guardians of the Forest
-A physics-based puzzle game inspired by _'Angry Birds'_, featuring a pull-and-launch mechanic within a family-friendly, fantasy setting.
+### 4. Guardians of the Forest
+A physics-based puzzle game inspired by _'Angry Birds'_, featuring a pull-and-launch mechanic within a family-friendly fantasy setting.
 
 Developed solo in Unity, this project focuses on creating satisfying and intuitive physics interactions. I implemented character selection mechanics, projectile systems and abilities,
 and gameplay variations through multiple character-projectile loadouts, encouraging replayability and experimentation.
@@ -319,7 +319,7 @@ and gameplay variations through multiple character-projectile loadouts, encourag
 </p>
 
 
-## Contact
+## Contact Me
 - Email: cam3ronfox@gmail.com
 - GitHub: https://github.com/NemesisCFx
 - Itch.io: https://nemesiscfx.itch.io/
