@@ -69,11 +69,17 @@ quick-time encounters. The project places a strong emphasis on atmosphere, playe
 - Developed interactive object systems to support puzzle gameplay
 
 **Role:** Solo Developer
+
 **Engine:** Unreal Engine 5 (C++ & Blueprints)
+
 **Project Type:** Solo Portfolio Project
+
 🎥 [[Trailer]](https://www.youtube.com/watch?v=HzpkVU_9g2Y)
+
 ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/the-phantom-diaries-the-spectral-train)
+
 📝 [[Game Design Document]](assets/game-documents/ThePhantomDiaries-TheSpectralTrain/The%20Phantom%20Diaries%20-%20The%20Spectral%20Train%20-%20Official%20Game%20Document.pdf)
+
 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ThePhantomDiaries-TheSpectralTrain)
 
 <p align="center">
@@ -146,9 +152,13 @@ to maintaining code quality and supporting team coordination to meet project dea
 - Collaborated with designers and programmers to refine gameplay feel and combat pacing
 
 **Role:** AI Programmer → Promoted to Lead AI Programmer
+
 **Engine:** Unreal Engine 4 (C++ & Blueprints)
+
 **Project Type:** Team-Based University Project
+
 ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/M-v1.0/MAU.zip)
+
 💻 [[GitHub Repository]](https://github.com/NemesisCFx/MAU)
 
 <p align="center">
@@ -227,11 +237,17 @@ features two gameplay-changing game modes, scoring systems, and dedicated online
 - Implemented AI enemy behaviours to create constant player pressure and challenge
 
 **Role:** Solo Developer
+
 **Engine:** Unity (C#)
+
 **Project Type:** Solo Portfolio Project
+
 🎥 [[Trailer]](https://www.youtube.com/watch?v=tDdP6ZZaLQQ)
+
 ▶️ [[itch.io Game Download Page]](https://nemesiscfx.itch.io/zombie-arcade)
+
 📝 [[Game Design Document]](assets/game-documents/ZombieArcade/Zombie%20Arcade%20-%20Official%20Game%20Document.pdf)
+
 💻 [[GitHub Repository]](https://github.com/NemesisCFx/ZombieArcade)
 
 <p align="center">
@@ -288,11 +304,17 @@ and gameplay variations through multiple character-projectile loadouts, encourag
 - Created progression systems across multiple levels and challenges
 
 **Role:** Solo Developer
+
 **Engine:** Unity (C#)
+
 **Project Type:** Solo Portfolio Project
+
 🎥 [[Trailer]](https://www.youtube.com/watch?v=Mt_N8QCtcMo)
+
 ▶️ [[Download Link]](https://github.com/NemesisCFx/NemesisCFx.github.io/releases/download/GotF-v1.0/GuardiansOfTheForest.zip)
+
 📝 [[Game Design Document]](assets/game-documents/GuardiansOfTheForest/Guardians%20of%20the%20Forest%20-%20Official%20Game%20Document.pdf)
+
 💻 [[GitHub Repository]](https://github.com/NemesisCFx/GuardiansOfTheForest)
 
 <p align="center">
