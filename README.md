@@ -1,6 +1,10 @@
 # NemesisCFx.github.io
 # Cameron Fox - Game Programmer
-📧 Email: cam3ronfox@gmail.com  
+C++ | C# | Unreal Engine 5 | Unity | Gameplay & AI Programming
+
+---
+
+📧 cam3ronfox@gmail.com  
 🔗 [GitHub](https://github.com/NemesisCFx) | [Itch.io](https://nemesiscfx.itch.io/) | [LinkedIn](https://www.linkedin.com/in/cameron-fox-10454a250/)
 
 
@@ -52,8 +56,7 @@ where I can continue to grow and contribute to meaningful projects.
 
 
 ## Projects
-
-## ⭐ Featured Project
+### ⭐ Featured Project
 ### The Phantom Diaries: The Spectral Train
 A first-person, horror escape room experience built in Unreal Engine 5, focused on immersive, atmospheric, story-driven gameplay, player interaction, and puzzle systems.
 Players explore a haunted 1920's steam train, uncovering narrative elements at their own pace through environmental storytelling and interactions.
@@ -62,11 +65,12 @@ As a solo developer, I designed and implemented core gameplay systems including 
 quick-time encounters. The project places a strong emphasis on atmosphere, player agency, and tension-building through both mechanics and level design.
 
 **Key Contributions:**
-- Designed and implemented inventory and item interaction system
+- Designed and implemented inventory and item interaction systems
 - Built UI systems including menus and player interfaces
 - Scripted gameplay events such as jumpscares, narrative triggers, and enemy encounters
 - Designed and integrated puzzle mechanics and progression systems
 - Developed interactive object systems to support puzzle gameplay
+
 
 - **Role:** Solo Developer
 - **Engine:** Unreal Engine 5 (C++ & Blueprints)
@@ -141,8 +145,10 @@ to maintaining code quality and supporting team coordination to meet project dea
 - Developed enemy AI behaviours with distinct roles and combat patterns
 - Designed and tuned AI systems to balance difficulty and player engagement
 - Implemented behaviour logic to support varied and dynamic encounters
-- Promoted to Lead AI Programmer, coordinating a small team while reviewing and maintaining AI code to ensure quality and consistency
+- Promoted to Lead AI Programmer, coordinating a small team to ensure task delivery and alignment
+- Reviewed and maintained AI code to ensure quality and consistency
 - Collaborated with designers and programmers to refine gameplay feel and combat pacing
+
 
 - **Role:** AI Programmer → Promoted to Lead AI Programmer
 - **Engine:** Unreal Engine 4 (C++ & Blueprints)
@@ -214,7 +220,7 @@ to maintaining code quality and supporting team coordination to meet project dea
 ### Zombie Arcade
 A fast-paced, score-driven arcade game inspired by the 1984 classic _'Oh Mummy'_, focused on responsive and high-risk, high-reward gameplay.
 
-As a solo developer, I created gameplay systems that emphasises quick decision-making and precise player movement, with increasing difficulty and persistent threats from enemies. The game
+As a solo developer, I created gameplay systems that emphasise quick decision-making and precise player movement, with increasing difficulty and persistent threats from enemies. The game
 features two gameplay-changing game modes, scoring systems, and dedicated online Leaderboards designed to encourage replayability and competitive play.
 
 **Key Contributions:**
@@ -224,6 +230,7 @@ features two gameplay-changing game modes, scoring systems, and dedicated online
 - Created dual game modes with distinct gameplay variations
 - Designed gameplay loops to support high-risk, high-reward decision-making
 - Implemented AI enemy behaviours to create constant player pressure and challenge
+
 
 - **Role:** Solo Developer
 - **Engine:** Unity (C#)
@@ -285,6 +292,7 @@ and gameplay variations through multiple character-projectile loadouts, encourag
 - Developed character and projectile selection systems with varied abilities and multiple loadouts
 - Tuned physics interactions to ensure responsive and satisfying gameplay
 - Created progression systems across multiple levels and challenges
+
 
 - **Role:** Solo Developer
 - **Engine:** Unity (C#)
@@ -352,7 +360,7 @@ and gameplay variations through multiple character-projectile loadouts, encourag
 
 
 ## Contact Me
-- 📧 Email: cam3ronfox@gmail.com
+- 📧 cam3ronfox@gmail.com
 - 💻 [GitHub](https://github.com/NemesisCFx)
 - 🎮 [Itch.io](https://nemesiscfx.itch.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cameron-fox-10454a250/)
