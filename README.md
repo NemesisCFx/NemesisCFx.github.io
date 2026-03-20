@@ -1,17 +1,17 @@
 # NemesisCFx.github.io
 # Cameron Fox - Game Programmer
-📧 cam3ronfox@gmail.com  
+📧 Email: cam3ronfox@gmail.com  
 🔗 [GitHub](https://github.com/NemesisCFx) | [Itch.io](https://nemesiscfx.itch.io/) | [LinkedIn](https://www.linkedin.com/in/cameron-fox-10454a250/)
 
 
 ## About Me
-Hi! I'm Cameron Fox, a game developer with a strong passion for playing and creating video games. I have a background in game development from my time in College through to University, where I specialized in programming while
+Hi, I'm Cameron Fox, a game developer with a strong passion for playing and creating video games. I have a background in game development from my time in College through to University, where I specialised in programming while
 developing a strong foundation across the full development pipeline.
 
 My primary focus is gameplay and AI programming, where I enjoy building responsive systems, designing mechanics, and solving complex technical problems. I am particularly interested in creating immersive player experiences,
 especially within single-player and horror games.
 
-During my end-of-year University project, I stepped into the role of Lead AI Programmer, taking responsibility for guiding a team, maintaining code quality, and ensuring deadlines were met. My contributions were recognized with
+During my end-of-year University project, I stepped into the role of Lead AI Programmer, taking responsibility for guiding a team, maintaining code quality, and ensuring deadlines were met. My contributions were recognised with
 an Outstanding Work Certificate from both peers and tutors.
 
 I am a motivated and curious developer who enjoys learning new technologies, tackling challenging problems, and collaborating within a team. I am currently seeking opportunities in gameplay, AI, or general programming roles
@@ -42,7 +42,7 @@ where I can continue to grow and contribute to meaningful projects.
 - Full Game Development Lifecycle
 - Debugging & Optimization
 
-### Techincal & Professional Skills
+### Technical & Professional Skills
 - Version Control (Git, GitHub)
 - Team Collaboration & Leadership
 - Solo Development & Project Ownership
@@ -53,12 +53,20 @@ where I can continue to grow and contribute to meaningful projects.
 
 ## Projects
 
-### 1. The Phantom Diaries: The Spectral Train
+## ⭐ Featured Project
+### The Phantom Diaries: The Spectral Train
 A first-person, horror escape room experience built in Unreal Engine 5, focused on immersive, atmospheric, story-driven gameplay, player interaction, and puzzle systems.
 Players explore a haunted 1920's steam train, uncovering narrative elements at their own pace through environmental storytelling and interactions.
 
 As a solo developer, I designed and implemented core gameplay systems including inventory management, interactive objects, UI systems, and scripted events such as jumpscares and enemy
 quick-time encounters. The project places a strong emphasis on atmosphere, player agency, and tension-building through both mechanics and level design.
+
+**Key Contributions:**
+- Designed and implemented inventory and item interaction system
+- Built UI systems including menus and player interfaces
+- Scripted gameplay events such as jumpscares, narrative triggers, and enemy encounters
+- Designed and integrated puzzle mechanics and progression systems
+- Developed interactive object systems to support puzzle gameplay
 
 - **Role:** Solo Developer
 - **Engine:** Unreal Engine 5 (C++ & Blueprints)
@@ -120,13 +128,21 @@ quick-time encounters. The project places a strong emphasis on atmosphere, playe
   </a>
 </p>
 
+---
 
-### 2. MAU
+### MAU
 A fast-paced "boomer-shooter" inspired by games like _'DOOM'_, developed as part of a large multidisciplinary University team.
 
 I worked as an AI Programmer and was later promoted to Lead AI Programmer, where I helped guide a small team responsible for enemy behaviour. My work focused on designing and
 implementing AI systems that created engaging and varied combat encounters, ensuring each enemy type had distinct behaviours, balance, and gameplay identity. I also contributed
 to maintaining code quality and supporting team coordination to meet project deadlines and demands.
+
+**Key Contributions:**
+- Developed enemy AI behaviours with distinct roles and combat patterns
+- Designed and tuned AI systems to balance difficulty and player engagement
+- Implemented behaviour logic to support varied and dynamic encounters
+- Promoted to Lead AI Programmer, coordinating a small team while reviewing and maintaining AI code to ensure quality and consistency
+- Collaborated with designers and programmers to refine gameplay feel and combat pacing
 
 - **Role:** AI Programmer → Promoted to Lead AI Programmer
 - **Engine:** Unreal Engine 4 (C++ & Blueprints)
@@ -193,12 +209,21 @@ to maintaining code quality and supporting team coordination to meet project dea
   </a>
 </p>
 
+---
 
-### 3. Zombie Arcade
+### Zombie Arcade
 A fast-paced, score-driven arcade game inspired by the 1984 classic _'Oh Mummy'_, focused on responsive and high-risk, high-reward gameplay.
 
-As a solo developer, I created gameplay systems that emphasizes quick decision-making and alert player movement, with increasing difficulty and persistent threats from enemies. The game
+As a solo developer, I created gameplay systems that emphasises quick decision-making and precise player movement, with increasing difficulty and persistent threats from enemies. The game
 features two gameplay-changing game modes, scoring systems, and dedicated online Leaderboards designed to encourage replayability and competitive play.
+
+**Key Contributions:**
+- Implemented core gameplay systems focused on responsive player movement and controls
+- Designed and developed scoring and progression systems to encourage replayability
+- Developed UI systems including menus, score tracking, and Leaderboard displays
+- Created dual game modes with distinct gameplay variations
+- Designed gameplay loops to support high-risk, high-reward decision-making
+- Implemented AI enemy behaviours to create constant player pressure and challenge
 
 - **Role:** Solo Developer
 - **Engine:** Unity (C#)
@@ -247,12 +272,19 @@ features two gameplay-changing game modes, scoring systems, and dedicated online
   </a>
 </p>
 
+---
 
-### 4. Guardians of the Forest
+### Guardians of the Forest
 A physics-based puzzle game inspired by _'Angry Birds'_, featuring a pull-and-launch mechanic within a family-friendly fantasy setting.
 
 Developed solo in Unity, this project focuses on creating satisfying and intuitive physics interactions. I implemented character selection mechanics, projectile systems and abilities,
 and gameplay variations through multiple character-projectile loadouts, encouraging replayability and experimentation.
+
+**Key Contributions:**
+- Implemented physics-based environmental and projectile systems, utilizing pull-and-launch mechanics
+- Developed character and projectile selection systems with varied abilities and multiple loadouts
+- Tuned physics interactions to ensure responsive and satisfying gameplay
+- Created progression systems across multiple levels and challenges
 
 - **Role:** Solo Developer
 - **Engine:** Unity (C#)
@@ -320,7 +352,7 @@ and gameplay variations through multiple character-projectile loadouts, encourag
 
 
 ## Contact Me
-- Email: cam3ronfox@gmail.com
-- GitHub: https://github.com/NemesisCFx
-- Itch.io: https://nemesiscfx.itch.io/
-- LinkedIn: https://www.linkedin.com/in/cameron-fox-10454a250/
+- 📧 Email: cam3ronfox@gmail.com
+- 💻 [GitHub](https://github.com/NemesisCFx)
+- 🎮 [Itch.io](https://nemesiscfx.itch.io/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cameron-fox-10454a250/)
