@@ -20,8 +20,8 @@ where I can continue to grow and contribute to meaningful projects.
 
 
 ## Education
-- Joseph Wright College Derby (2 years): Games Development
-- University of Derby (4 years): BSc (Hons) Computer Games Programming
+- Joseph Wright College Derby (2 years): Pearson BTEC Level 3 Extended Diploma in Creative Media Production (Games Development) at triple grade Merit Pass Pass (MPP)
+- University of Derby (4 years): Bachelor of Science (Honours) Degree in Computer Games Programming
 
 
 ## Skills
